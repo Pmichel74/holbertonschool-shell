@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "hello, world"
-ls -l >new.text
+echo "hello, world" >result.txt
