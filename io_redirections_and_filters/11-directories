@@ -1,2 +1,2 @@
 #!/bin/bash
-find /io_redirections_and_filters -type d | wc -l 
+find -mindepth 1 | wc -1
