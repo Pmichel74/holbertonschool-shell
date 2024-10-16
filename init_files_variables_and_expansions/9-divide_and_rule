@@ -1,4 +1,2 @@
 #!/bin/bash
 echo $((POWER / DIVIDE))
-POWER=40
-DIVIDE=2
