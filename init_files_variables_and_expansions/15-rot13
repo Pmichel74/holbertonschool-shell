@@ -1,6 +1,2 @@
 #!/bin/bash
 rot13() {echo "$1" | tr 'A-Za-z' 'N-ZA-Mn-za-m'}
-echo -e "hello there ! type your sentence:"
-read answer
-result=$(rot13 "$answer")
-echo "Result : $answer"
