@@ -1,0 +1,8 @@
+#!/bin/bash
+echo -e "Let's explain the command 'ls *.c' and actions provided\n "
+
+echo -e "- let's split the command :\n"
+echo -e "- 'ls' - list the files in the current directory\n"
+echo -e "- '*.c' - we indicate to the shell with the '.c', we want to list files with the .c extension"
+echo -e "- Note that the symbol '*', lists all files\n"
+echo -e " Now, try it on the shell. Enjoy !"
